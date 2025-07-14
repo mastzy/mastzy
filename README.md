@@ -31,7 +31,7 @@
 
 ---
 
-### 🐍 GitHub Snake Game
+### 🐍 GitHub Snake Game (Realistic Style)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mastzy/mastzy/output/github-contribution-grid-snake.svg" alt="snake animation" />
