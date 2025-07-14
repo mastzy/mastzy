@@ -37,15 +37,15 @@ Saya adalah seorang pemula yang sedang mendalami dunia pengembangan web dan apli
 
 ## 📈 Statistik GitHub
 
-![Toik's GitHub stats](https://github-readme-stats.vercel.app/api?username=toikzakiyudin&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toikzakiyudin&layout=compact&theme=radical)
+![Toik's GitHub stats](https://github-readme-stats.vercel.app/api?username=mastzy&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mastzy&layout=compact&theme=radical)
 
 ---
 
 ## 🌐 Temui Saya di
 
-[![Instagram](https://img.shields.io/badge/-@toik_zakiyudin-E4405F?logo=instagram&logoColor=white&style=flat)](https://instagram.com/toik_zakiyudin)
-[![LinkedIn](https://img.shields.io/badge/-@toikzakiyudin-blue?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/toikzakiyudin)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat)](https://instagram.com/toik_zakiyudin)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/toikzakiyudin)
 
 ---
 
