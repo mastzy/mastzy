@@ -31,8 +31,9 @@
 
 ---
 
-### 🐍 GitHub Snake Game (Realistic Style)
+### 🐍 GitHub Snake Game (Random Theme)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mastzy/mastzy/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
