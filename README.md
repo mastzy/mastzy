@@ -1,52 +1,38 @@
-# 👋 Hello, I’m Toik Zakiyudin
+<h1 align="center">Hi 👋, I'm Toik Zakiyudin</h1>
 
-### 🚀 Full-Stack Explorer | 🧠 Pemula Semangat Belajar | 🎨 Creative Technologist
-
-> *“Code is not just syntax, it's storytelling with logic.”*
-
-Saya adalah seorang pemula yang sedang mendalami dunia pengembangan web dan aplikasi. Saat ini saya sedang fokus belajar Flutter, Laravel, dan Tailwind CSS sambil membangun berbagai proyek sederhana untuk mengasah kemampuan.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Beginner+Web+%26+App+Developer;Learning+Flutter+%F0%9F%93%96+Laravel+%F0%9F%92%BB+Tailwind;Always+curious+%F0%9F%94%8D+Always+learning+%F0%9F%92%AA" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
-
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)
-![Laravel](https://img.shields.io/badge/-Laravel-F55247?logo=laravel&logoColor=white&style=flat)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=flat)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+### 🧰 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,laravel,tailwind,html,css,js,php,mysql" />
+</p>
 
 ---
 
-## 📌 Projek yang Sedang Dikerjakan
+### 📈 GitHub Stats
 
-- 🛒 **Toko Online Flutter**  
-  Aplikasi e-commerce sederhana berbasis Flutter dan Firebase.
-
-- 📚 **Portal Pembelajaran Modular**  
-  Website dengan navigasi bab, dark mode toggle, dan iframe modular.
-
-- 🛠️ **Mini Tools Web**  
-  Alat bantu ringan seperti converter dan formatter berbasis web.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mastzy&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mastzy&layout=compact&theme=tokyonight" height="150"/>
+</p>
 
 ---
 
-## 📈 Statistik GitHub
+### 🔗 Connect With Me
 
-![Toik's GitHub stats](https://github-readme-stats.vercel.app/api?username=mastzy&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mastzy&layout=compact&theme=radical)
-
----
-
-## 🌐 Temui Saya di
-
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat)](https://instagram.com/toik_zakiyudin)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/toikzakiyudin)
+<p align="center">
+  <a href="https://instagram.com/toik_zakiyudin"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/toikzakiyudin"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 ---
 
-🎓 *Pemula yang sedang belajar membangun aplikasi masa depan, satu baris kode setiap hari.*
+### 🐍 GitHub Snake Game
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/toikzakiyudin/toikzakiyudin/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
