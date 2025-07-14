@@ -1,10 +1,10 @@
 # 👋 Hello, I’m Toik Zakiyudin
 
-### 🚀 Full-Stack Explorer | 🧠 Lifelong Learner | 🎨 Creative Technologist
+### 🚀 Full-Stack Explorer | 🧠 Pemula Semangat Belajar | 🎨 Creative Technologist
 
 > *“Code is not just syntax, it's storytelling with logic.”*
 
-I’m a passionate developer who loves blending code and creativity. Whether it’s building modular learning portals, crafting mobile apps with Flutter, or experimenting with interactive UI — I build things with purpose.
+Saya adalah seorang pemula yang sedang mendalami dunia pengembangan web dan aplikasi. Saat ini saya sedang fokus belajar Flutter, Laravel, dan Tailwind CSS sambil membangun berbagai proyek sederhana untuk mengasah kemampuan.
 
 ---
 
@@ -22,33 +22,31 @@ I’m a passionate developer who loves blending code and creativity. Whether it�
 
 ---
 
-## 📌 Featured Projects
+## 📌 Projek yang Sedang Dikerjakan
 
-- 🛒 **Toko Online Flutter**
-  > Flutter + Firebase based e-commerce app with real-time cart and payment features.
+- 🛒 **Toko Online Flutter**  
+  Aplikasi e-commerce sederhana berbasis Flutter dan Firebase.
 
-- 📚 **Modular Learning Portal**
-  > Web platform with iframe-based module loader, dark mode toggle, and localStorage sync.
+- 📚 **Portal Pembelajaran Modular**  
+  Website dengan navigasi bab, dark mode toggle, dan iframe modular.
 
-- 🛠️ **Mini Web Tools**
-  > Tools for daily productivity: URL shorteners, converters, and text formatters.
+- 🛠️ **Mini Tools Web**  
+  Alat bantu ringan seperti converter dan formatter berbasis web.
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Statistik GitHub
 
 ![Toik's GitHub stats](https://github-readme-stats.vercel.app/api?username=toikzakiyudin&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toikzakiyudin&layout=compact&theme=radical)
 
 ---
 
-## 🌐 Let’s Connect!
+## 🌐 Temui Saya di
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](#)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=firefox)](#)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat)](#)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](#)
+[![Instagram](https://img.shields.io/badge/-@toik_zakiyudin-E4405F?logo=instagram&logoColor=white&style=flat)](https://instagram.com/toik_zakiyudin)
+[![LinkedIn](https://img.shields.io/badge/-@toikzakiyudin-blue?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/toikzakiyudin)
 
 ---
 
-🎓 *Currently an Information Systems student, building future-ready software one commit at a time.*
+🎓 *Pemula yang sedang belajar membangun aplikasi masa depan, satu baris kode setiap hari.*
