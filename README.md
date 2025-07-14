@@ -34,5 +34,5 @@
 ### 🐍 GitHub Snake Game
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/toikzakiyudin/toikzakiyudin/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/mastzy/mastzy/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
