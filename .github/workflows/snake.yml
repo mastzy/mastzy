@@ -1,8 +1,8 @@
-name: Generate Realistic Snake Animation
+name: Generate Random Snake Theme
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"  # Setiap hari jam 07:00 WIB
   workflow_dispatch:
 
 jobs:
@@ -12,17 +12,44 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Generate Realistic Snake
+      - name: Pick random snake theme
+        id: theme
+        run: |
+          THEMES=("realistic" "neon" "retro")
+          SELECTED=${THEMES[$RANDOM % ${#THEMES[@]}]}
+          echo "🧪 Theme selected: $SELECTED"
+          echo "theme=$SELECTED" >> $GITHUB_OUTPUT
+
+      - name: Set snake options
+        id: options
+        run: |
+          if [ "${{ steps.theme.outputs.theme }}" == "realistic" ]; then
+            echo "snake_color=#4CAF50" >> $GITHUB_OUTPUT
+            echo "color_snake_head=#A2FF00" >> $GITHUB_OUTPUT
+            echo "background_color=#0d1117" >> $GITHUB_OUTPUT
+            echo "speed=5" >> $GITHUB_OUTPUT
+          elif [ "${{ steps.theme.outputs.theme }}" == "neon" ]; then
+            echo "snake_color=#00FFFF" >> $GITHUB_OUTPUT
+            echo "color_snake_head=#00FFCC" >> $GITHUB_OUTPUT
+            echo "background_color=#0a0a0a" >> $GITHUB_OUTPUT
+            echo "speed=4" >> $GITHUB_OUTPUT
+          else
+            echo "snake_color=#FFD700" >> $GITHUB_OUTPUT
+            echo "color_snake_head=#FF4500" >> $GITHUB_OUTPUT
+            echo "background_color=#1a1a1a" >> $GITHUB_OUTPUT
+            echo "speed=3" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
           github_user_name: mastzy
           outputs: |
             dist/github-contribution-grid-snake.svg
-          # Tambahan realisme: kecepatan dan warna
-          snake_color: '#4CAF50'         # hijau alami
-          background_color: '#0d1117'    # gelap modern
-          color_snake_head: '#A2FF00'    # kepala lebih terang
-          speed: 5                       # lebih lambat, seperti ular beneran
+          snake_color: ${{ steps.options.outputs.snake_color }}
+          color_snake_head: ${{ steps.options.outputs.color_snake_head }}
+          background_color: ${{ steps.options.outputs.background_color }}
+          speed: ${{ steps.options.outputs.speed }}
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
