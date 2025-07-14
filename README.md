@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hallo World! I'm Toik Zakiyudin 👋
 
 <!--
 **mastzy/mastzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on **@mastzy**
+- 🌱 I’m currently learning [**Laravel**] (https://Laravel.com) Framework
+✨✨
+
+![welcome]! https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDU2YWh2dWZnbXE1aGozejh4ejI1bWNoajNhend2MmxkdDRzMmV1ayZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/5V0I5JIFVuMGxXPSaS/giphy.gif
