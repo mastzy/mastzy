@@ -9,6 +9,7 @@
 ### 🧰 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,laravel,tailwind,html,css,js,php,mysql" />
+  <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 </p>
 
 ---
