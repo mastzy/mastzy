@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Toik Zakiyudin</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Beginner+Web+%26+App+Developer;Learning+Flutter+%F0%9F%93%96+Laravel+%F0%9F%92%BB+Tailwind;Always+curious+%F0%9F%94%8D+Always+learning+%F0%9F%92%AA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Beginner+Web+%26+App+Developer;Learning+%F0%9F%93%96+Laravel+%F0%9F%92%BB+Tailwind;Always+curious+%F0%9F%94%8D+Always+learning+%F0%9F%92%AA" alt="Typing SVG" />
 </p>
 
 ---
